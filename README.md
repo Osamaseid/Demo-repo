@@ -1,5 +1,3 @@
 #DEMO
 
-Some discription.
-
-Another discription.
+gooogle front page clone
